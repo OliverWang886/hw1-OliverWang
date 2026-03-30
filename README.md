@@ -22,4 +22,4 @@ This project demonstrates the use of an AI coding assistant (Claude) to create a
 4. Add manually edited final version
 
 ## Video
-[Video link to be added]
+[https://youtu.be/exU2crmNqqY]
